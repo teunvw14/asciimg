@@ -1,6 +1,6 @@
 # ASCIImg
 
-## Generate ASCII art from images (jpg, png, gif)
+*Generate ASCII art from images (jpg, png, gif). Built with Rust.*
 
 # Build
 
